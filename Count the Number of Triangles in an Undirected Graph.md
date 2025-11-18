@@ -1,4 +1,4 @@
-# Ex. No: 17A - Adjacency List Representation of a Graph
+# Ex. No: 18A - Adjacency List Representation of a Graph
 
 ### Name-Deepak krishna J
 ### Reg No-212223060038
